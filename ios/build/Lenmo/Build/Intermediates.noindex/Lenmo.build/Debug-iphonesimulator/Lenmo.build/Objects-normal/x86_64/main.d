@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/nazmussakib/Work/Development/Lenmo/Lenmo-frontend-test/ios/Lenmo/main.m \
+  /Users/nazmussakib/Work/Development/Lenmo/Lenmo-frontend-test/ios/Lenmo/AppDelegate.h \
+  /Users/nazmussakib/Work/Development/Lenmo/Lenmo-frontend-test/ios/Pods/Headers/Public/UMReactNativeAdapter/UMModuleRegistryAdapter.h \
+  /Users/nazmussakib/Work/Development/Lenmo/Lenmo-frontend-test/ios/Pods/Headers/Public/React/React/RCTBridgeModule.h \
+  /Users/nazmussakib/Work/Development/Lenmo/Lenmo-frontend-test/ios/Pods/Headers/Public/React/React/RCTDefines.h \
+  /Users/nazmussakib/Work/Development/Lenmo/Lenmo-frontend-test/ios/Pods/Headers/Public/React/RCTInspectorDevServerHelper.h \
+  /Users/nazmussakib/Work/Development/Lenmo/Lenmo-frontend-test/ios/Pods/Headers/Public/React/RCTPackagerConnection.h \
+  /Users/nazmussakib/Work/Development/Lenmo/Lenmo-frontend-test/ios/Pods/Headers/Public/UMCore/UMModuleRegistryProvider.h \
+  /Users/nazmussakib/Work/Development/Lenmo/Lenmo-frontend-test/ios/Pods/Headers/Public/UMCore/UMModuleRegistry.h \
+  /Users/nazmussakib/Work/Development/Lenmo/Lenmo-frontend-test/ios/Pods/Headers/Public/UMCore/UMInternalModule.h \
+  /Users/nazmussakib/Work/Development/Lenmo/Lenmo-frontend-test/ios/Pods/Headers/Public/UMCore/UMDefines.h \
+  /Users/nazmussakib/Work/Development/Lenmo/Lenmo-frontend-test/ios/Pods/Headers/Public/UMCore/UMExportedModule.h \
+  /Users/nazmussakib/Work/Development/Lenmo/Lenmo-frontend-test/ios/Pods/Headers/Public/UMCore/UMViewManager.h \
+  /Users/nazmussakib/Work/Development/Lenmo/Lenmo-frontend-test/ios/Pods/Headers/Public/UMCore/UMModuleRegistryDelegate.h \
+  /Users/nazmussakib/Work/Development/Lenmo/Lenmo-frontend-test/ios/Pods/Headers/Public/UMCore/UMSingletonModule.h \
+  /Users/nazmussakib/Work/Development/Lenmo/Lenmo-frontend-test/ios/Pods/Headers/Public/React/React/RCTBridgeDelegate.h \
+  /Users/nazmussakib/Work/Development/Lenmo/Lenmo-frontend-test/ios/Pods/Headers/Public/React/React/RCTJavaScriptLoader.h \
+  /Users/nazmussakib/Work/Development/Lenmo/Lenmo-frontend-test/ios/Pods/Headers/Public/UMCore/UMAppDelegateWrapper.h
